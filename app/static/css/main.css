@@ -1,0 +1,11 @@
+.navbar-brand{
+    max-width: 50px;
+}
+.container-head{
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+.form-group{
+    width: 500px;
+    height: fit-content;
+}
