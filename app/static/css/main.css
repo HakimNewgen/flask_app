@@ -9,3 +9,16 @@
     width: 500px;
     height: fit-content;
 }
+
+main{
+    margin-left: 50px;
+    background-color: lemonchiffon;
+
+}
+
+h3 {
+    margin-left: 30px;
+    font-family: "Apple Braille";
+    position: center;
+
+}
